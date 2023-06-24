@@ -7,6 +7,7 @@ import java.util.*;
 public class MainCliente extends Thread {
 
     /**
+     * juego del ahorcado
      * @param args the command line arguments
      */
     public static void main(String[] args) {
